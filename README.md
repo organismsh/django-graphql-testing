@@ -1,5 +1,5 @@
 # Experementing with graphql in django
-### simple marketplace with adding products and categories using django serializers and for quering it using graphl
+### simple marketplace with adding products and categories using django serializers and for quering it using grapql
 
 
 ### all products ( objects.all() )
